@@ -1,6 +1,6 @@
 task:
+  timeout_in: 120m
   name: Build on Ubuntu 22.04
-  timeout_in: 720m
   container:
     image: ubuntu:22.04
     cpu: 8
