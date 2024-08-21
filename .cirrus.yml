@@ -6,4 +6,4 @@ task:
     cpu: 8
     memory: 32G
     script: 
-    - sleep 600000
+    - sleep 6000000
